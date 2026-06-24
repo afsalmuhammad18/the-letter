@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://linkinbio.afsalmuhammad.web.id/sitemap.xml
