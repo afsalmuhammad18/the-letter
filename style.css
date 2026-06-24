@@ -215,6 +215,7 @@ main {
   line-height: 1.5;
 }
 
+<<<<<<< HEAD
 .article-meta {
   display: flex;
   flex-wrap: wrap;
@@ -227,6 +228,8 @@ main {
   font-size: 13px;
 }
 
+=======
+>>>>>>> 10f85389dc4477962f7863c8b21c14f1e3e20170
 .article-list {
   display: grid;
   gap: 12px;
