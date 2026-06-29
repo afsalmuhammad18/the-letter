@@ -1,10 +1,15 @@
 const latestArticle = {
-  title: "Bahaya Mengambil Keputusan Saat Butterfly Era",
-  url: "https://www.afsalmuhammad.web.id/2026/06/bahaya-mengambil-keputusan-saat-butterfly-era.html",
-  date: "2026-06-18",
+  title: "Orang FOMO Itu Miskin Identitas, Apakah Itu Kamu?",
+  url: "https://www.afsalmuhammad.web.id/2026/06/orang-fomo-itu-miskin-identitas.html",
+  date: "2026-06-29",
 };
 
 const olderArticles = [
+  {
+    title: "Bahaya Mengambil Keputusan Saat Butterfly Era",
+    url: "https://www.afsalmuhammad.web.id/2026/06/bahaya-mengambil-keputusan-saat-butterfly-era.html",
+    date: "2026-01-15",
+  },
   {
     title:
       "Tak Ada yang Bisa Kita Andalkan Selain Diri Sendiri, Berpikir dan Bangkit",
