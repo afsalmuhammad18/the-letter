@@ -8,13 +8,13 @@ const olderArticles = [
   {
     title: "Bahaya Mengambil Keputusan Saat Butterfly Era",
     url: "https://www.afsalmuhammad.web.id/2026/06/bahaya-mengambil-keputusan-saat-butterfly-era.html",
-    date: "2026-01-15",
+    date: "2026-06-22",
   },
   {
     title:
       "Tak Ada yang Bisa Kita Andalkan Selain Diri Sendiri, Berpikir dan Bangkit",
     url: "https://www.afsalmuhammad.web.id/2026/01/tak-ada-yang-bisa-diandalkan-selain-diri-sendiri.html",
-    date: "2026-01-15",
+    date: "2026-01-04",
   },
 ];
 
