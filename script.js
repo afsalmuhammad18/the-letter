@@ -1,20 +1,19 @@
 const latestArticle = {
-  title: "Orang FOMO Itu Miskin Identitas, Apakah Itu Kamu?",
-  url: "https://www.afsalmuhammad.web.id/2026/06/orang-fomo-itu-miskin-identitas.html",
-  date: "2026-06-29",
+  title: "Latsarmil Calon Manajer Kopdes, Pemerintah Jangan Cari ‘Rambo’ Untuk Menjaga Koperasi",
+  url: "https://afsalmuhammad.web.id/latsarmil-calon-manajer-kopdes-pemerintah-jangan-cari-rambo-untuk-menjaga-koperasi/",
+  date: "2026-07-06",
 };
 
 const olderArticles = [
   {
-    title: "Bahaya Mengambil Keputusan Saat Butterfly Era",
-    url: "https://www.afsalmuhammad.web.id/2026/06/bahaya-mengambil-keputusan-saat-butterfly-era.html",
-    date: "2026-06-22",
+    title: "Orang FOMO Itu Miskin Identitas, Apakah Itu Kamu?",
+    url: "https://afsalmuhammad.web.id/orang-fomo-itu-miskin-identitas-apakah-itu-kamu/",
+    date: "2026-06-29",
   },
   {
-    title:
-      "Tak Ada yang Bisa Kita Andalkan Selain Diri Sendiri, Berpikir dan Bangkit",
-    url: "https://www.afsalmuhammad.web.id/2026/01/tak-ada-yang-bisa-diandalkan-selain-diri-sendiri.html",
-    date: "2026-01-04",
+    title: "Bahaya Mengambil Keputusan Saat Butterfly Era",
+    url: "https://afsalmuhammad.web.id/belajar-dari-spider-noir-mengapa-fase-butterfly-era-bukan-waktu-yang-tepat-untuk-memulai-hidup-baru/",
+    date: "2026-06-22",
   },
 ];
 
