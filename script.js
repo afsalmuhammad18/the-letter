@@ -1,11 +1,16 @@
 const latestArticle = {
-  title: "Latsarmil Calon Manajer Kopdes, Pemerintah Jangan Cari ‘Rambo’ Untuk Menjaga Koperasi",
-  url: "https://afsalmuhammad.web.id/latsarmil-calon-manajer-kopdes-pemerintah-jangan-cari-rambo-untuk-menjaga-koperasi/",
-  date: "2026-07-06",
+  title: "Saat Kamu Meragukan Diri Sendiri",
+  url: "https://afsalmuhammad.web.id/saat-kamu-meragukan-diri-sendiri/",
+  date: "2026-07-07",
 };
 
 const olderArticles = [
   {
+    title: "Latsarmil Calon Manajer Kopdes, Pemerintah Jangan Cari ‘Rambo’ Untuk Menjaga Koperasi",
+    url: "https://afsalmuhammad.web.id/latsarmil-calon-manajer-kopdes-pemerintah-jangan-cari-rambo-untuk-menjaga-koperasi/",
+    date: "2026-07-06",
+  },
+   {
     title: "Orang FOMO Itu Miskin Identitas, Apakah Itu Kamu?",
     url: "https://afsalmuhammad.web.id/orang-fomo-itu-miskin-identitas-apakah-itu-kamu/",
     date: "2026-06-29",
