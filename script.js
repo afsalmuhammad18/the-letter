@@ -1,10 +1,15 @@
 const latestArticle = {
-  title: "Saat Kamu Meragukan Diri Sendiri",
-  url: "https://afsalmuhammad.web.id/saat-kamu-meragukan-diri-sendiri/",
-  date: "2026-07-07",
+  title: "Kalau Kamu Perfeksionis, Siap-Siap Jadi Gagal",
+  url: "https://afsalmuhammad.web.id/kalau-kamu-perfeksionis-siap-siap-jadi-gagal/",
+  date: "2026-07-12",
 };
 
 const olderArticles = [
+  {
+    title: "Saat Kamu Meragukan Diri Sendiri",
+    url: "https://afsalmuhammad.web.id/saat-kamu-meragukan-diri-sendiri/",
+    date: "2026-07-07",
+  },
   {
     title: "Latsarmil Calon Manajer Kopdes, Pemerintah Jangan Cari ‘Rambo’ Untuk Menjaga Koperasi",
     url: "https://afsalmuhammad.web.id/latsarmil-calon-manajer-kopdes-pemerintah-jangan-cari-rambo-untuk-menjaga-koperasi/",
