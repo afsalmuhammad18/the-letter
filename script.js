@@ -1,10 +1,15 @@
 const latestArticle = {
-  title: "Kalau Kamu Perfeksionis, Siap-Siap Jadi Gagal",
-  url: "https://afsalmuhammad.web.id/kalau-kamu-perfeksionis-siap-siap-jadi-gagal/",
-  date: "2026-07-12",
+  title: "Saya Menghapus Semua Aplikasi Sosmed di HP, dan Ini yang Saya Rasakan Selama 1 Minggu",
+  url: "https://afsalmuhammad.web.id/saya-menghapus-semua-aplikasi-sosmed-di-hp-dan-ini-yang-saya-rasakan-selama-1-minggu/",
+  date: "2026-07-19",
 };
 
 const olderArticles = [
+  {
+    title: "Kalau Kamu Perfeksionis, Siap-Siap Jadi Gagal",
+    url: "https://afsalmuhammad.web.id/kalau-kamu-perfeksionis-siap-siap-jadi-gagal/",
+    date: "2026-07-07",
+  },
   {
     title: "Saat Kamu Meragukan Diri Sendiri",
     url: "https://afsalmuhammad.web.id/saat-kamu-meragukan-diri-sendiri/",
