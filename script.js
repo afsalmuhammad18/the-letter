@@ -1,10 +1,15 @@
 const latestArticle = {
-  title: "Saya Menghapus Semua Aplikasi Sosmed di HP, dan Ini yang Saya Rasakan Selama 1 Minggu",
-  url: "https://afsalmuhammad.web.id/saya-menghapus-semua-aplikasi-sosmed-di-hp-dan-ini-yang-saya-rasakan-selama-1-minggu/",
-  date: "2026-07-19",
+  title: "Memaksa Keberanian Muncul Dalam Diri",
+  url: "https://afsalmuhammad.web.id/memaksa-keberanian-muncul-dalam-diri/",
+  date: "2026-07-26",
 };
 
 const olderArticles = [
+  {
+    title: "Saya Menghapus Semua Aplikasi Sosmed di HP, dan Ini yang Saya Rasakan Selama 1 Minggu",
+    url: "https://afsalmuhammad.web.id/saya-menghapus-semua-aplikasi-sosmed-di-hp-dan-ini-yang-saya-rasakan-selama-1-minggu/",
+    date: "2026-07-19",
+  },
   {
     title: "Kalau Kamu Perfeksionis, Siap-Siap Jadi Gagal",
     url: "https://afsalmuhammad.web.id/kalau-kamu-perfeksionis-siap-siap-jadi-gagal/",
