@@ -1,11 +1,16 @@
 const latestArticle = {
-  title: "Memaksa Keberanian Muncul Dalam Diri",
-  url: "https://afsalmuhammad.web.id/memaksa-keberanian-muncul-dalam-diri/",
-  date: "2026-07-26",
+  title: "10 Tanda Kehilangan Arah yang Sering Tidak Disadari",
+  url: "https://afsalmuhammad.web.id/10-tanda-kehilangan-arah-yang-sering-tidak-disadari/",
+  date: "2026-07-28",
 };
 
 const olderArticles = [
   {
+    title: "Memaksa Keberanian Muncul Dalam Diri",
+    url: "https://afsalmuhammad.web.id/memaksa-keberanian-muncul-dalam-diri/",
+    date: "2026-07-26",
+  },
+    {
     title: "Saya Menghapus Semua Aplikasi Sosmed di HP, dan Ini yang Saya Rasakan Selama 1 Minggu",
     url: "https://afsalmuhammad.web.id/saya-menghapus-semua-aplikasi-sosmed-di-hp-dan-ini-yang-saya-rasakan-selama-1-minggu/",
     date: "2026-07-19",
