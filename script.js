@@ -1,16 +1,21 @@
 const latestArticle = {
-  title: "10 Tanda Kehilangan Arah yang Sering Tidak Disadari",
-  url: "https://afsalmuhammad.web.id/10-tanda-kehilangan-arah-yang-sering-tidak-disadari/",
-  date: "2026-07-28",
+  title: "7 Cara Mengubah Hidup Hanya yang Bisa Dilakukan Hari Ini",
+  url: "https://afsalmuhammad.web.id/7-cara-mengubah-hidup-hanya-yang-bisa-dilakukan-hari-ini/",
+  date: "2026-08-03",
 };
 
 const olderArticles = [
+  {
+    title: "10 Tanda Kehilangan Arah yang Sering Tidak Disadari",
+    url: "https://afsalmuhammad.web.id/10-tanda-kehilangan-arah-yang-sering-tidak-disadari/",
+    date: "2026-07-28",
+  },
   {
     title: "Memaksa Keberanian Muncul Dalam Diri",
     url: "https://afsalmuhammad.web.id/memaksa-keberanian-muncul-dalam-diri/",
     date: "2026-07-26",
   },
-    {
+  {
     title: "Saya Menghapus Semua Aplikasi Sosmed di HP, dan Ini yang Saya Rasakan Selama 1 Minggu",
     url: "https://afsalmuhammad.web.id/saya-menghapus-semua-aplikasi-sosmed-di-hp-dan-ini-yang-saya-rasakan-selama-1-minggu/",
     date: "2026-07-19",
