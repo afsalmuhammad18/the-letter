@@ -1,10 +1,15 @@
 const latestArticle = {
-  title: "7 Cara Mengubah Hidup Hanya yang Bisa Dilakukan Hari Ini",
-  url: "https://afsalmuhammad.web.id/7-cara-mengubah-hidup-hanya-yang-bisa-dilakukan-hari-ini/",
-  date: "2026-08-03",
+  title: "10 Tanda Hidupmu Akan Semakin Hancur yang Sering Tidak Disadari",
+  url: "https://afsalmuhammad.web.id/10-tanda-hidupmu-akan-semakin-hancur-yang-sering-tidak-disadari/",
+  date: "2026-08-06",
 };
 
 const olderArticles = [
+  {
+    title: "7 Cara Mengubah Hidup Hanya yang Bisa Dilakukan Hari Ini",
+    url: "https://afsalmuhammad.web.id/7-cara-mengubah-hidup-hanya-yang-bisa-dilakukan-hari-ini/",
+    date: "2026-08-03",
+  },
   {
     title: "10 Tanda Kehilangan Arah yang Sering Tidak Disadari",
     url: "https://afsalmuhammad.web.id/10-tanda-kehilangan-arah-yang-sering-tidak-disadari/",
