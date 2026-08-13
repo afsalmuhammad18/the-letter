@@ -1,10 +1,15 @@
 const latestArticle = {
-  title: "10 Ciri-Ciri Otak Kamu Sudah Rusak dan Perlu Direset",
-  url: "https://afsalmuhammad.web.id/10-ciri-ciri-otak-kamu-sudah-rusak-dan-perlu-direset/",
-  date: "2026-08-10",
+  title: "10 Tanda Mental Kamu Semakin Dewasa dan Kuat",
+  url: "https://afsalmuhammad.web.id/10-tanda-mental-kamu-semakin-dewasa-dan-kuat/",
+  date: "2026-08-13",
 };
 
 const olderArticles = [
+  {
+    title: "10 Ciri-Ciri Otak Kamu Sudah Rusak dan Perlu Direset",
+    url: "https://afsalmuhammad.web.id/10-ciri-ciri-otak-kamu-sudah-rusak-dan-perlu-direset/",
+    date: "2026-08-10",
+  },
   {
     title: "10 Tanda Hidupmu Akan Semakin Hancur yang Sering Tidak Disadari",
     url: "https://afsalmuhammad.web.id/10-tanda-hidupmu-akan-semakin-hancur-yang-sering-tidak-disadari/",
