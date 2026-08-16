@@ -1,10 +1,15 @@
 const latestArticle = {
-  title: "10 Tanda Mental Kamu Semakin Dewasa dan Kuat",
-  url: "https://afsalmuhammad.web.id/10-tanda-mental-kamu-semakin-dewasa-dan-kuat/",
-  date: "2026-08-13",
+  title: "10 Rahasia Mengatasi Overthinking yang Jarang Diketahui",
+  url: "https://afsalmuhammad.web.id/10-rahasia-mengatasi-overthinking-yang-jarang-diketahui/",
+  date: "2026-08-17",
 };
 
 const olderArticles = [
+  {
+    title: "10 Tanda Mental Kamu Semakin Dewasa dan Kuat",
+    url: "https://afsalmuhammad.web.id/10-tanda-mental-kamu-semakin-dewasa-dan-kuat/",
+    date: "2026-08-13",
+  },
   {
     title: "10 Ciri-Ciri Otak Kamu Sudah Rusak dan Perlu Direset",
     url: "https://afsalmuhammad.web.id/10-ciri-ciri-otak-kamu-sudah-rusak-dan-perlu-direset/",
