@@ -1,10 +1,15 @@
 const latestArticle = {
-  title: "10 Rahasia Mengatasi Overthinking yang Jarang Diketahui",
-  url: "https://afsalmuhammad.web.id/10-rahasia-mengatasi-overthinking-yang-jarang-diketahui/",
-  date: "2026-08-17",
+  title: "10 Tanda Kamu Adalah Insecure Leader, Bukan Great Leader",
+  url: "https://afsalmuhammad.web.id/10-tanda-kamu-adalah-insecure-leader-bukan-great-leader/",
+  date: "2026-08-24",
 };
 
 const olderArticles = [
+  {
+    title: "10 Rahasia Mengatasi Overthinking yang Jarang Diketahui",
+    url: "https://afsalmuhammad.web.id/10-rahasia-mengatasi-overthinking-yang-jarang-diketahui/",
+    date: "2026-08-17",
+  },
   {
     title: "10 Tanda Mental Kamu Semakin Dewasa dan Kuat",
     url: "https://afsalmuhammad.web.id/10-tanda-mental-kamu-semakin-dewasa-dan-kuat/",
