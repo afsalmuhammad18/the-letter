@@ -1,10 +1,15 @@
 const latestArticle = {
-  title: "10 Tanda Kamu Adalah Insecure Leader, Bukan Great Leader",
-  url: "https://afsalmuhammad.web.id/10-tanda-kamu-adalah-insecure-leader-bukan-great-leader/",
-  date: "2026-08-24",
+  title: "Sejak Punya Nintendo DS Lite, Waktu Saya untuk Scrolling Media Sosial Semakin Sedikit",
+  url: "https://afsalmuhammad.web.id/sejak-punya-nintendo-ds-lite-waktu-saya-untuk-scrolling-media-sosial-semakin-sedikit/",
+  date: "2026-08-21",
 };
 
 const olderArticles = [
+  {
+    title: "10 Tanda Kamu Adalah Insecure Leader, Bukan Great Leader",
+    url: "https://afsalmuhammad.web.id/10-tanda-kamu-adalah-insecure-leader-bukan-great-leader/",
+    date: "2026-08-24",
+  },
   {
     title: "10 Rahasia Mengatasi Overthinking yang Jarang Diketahui",
     url: "https://afsalmuhammad.web.id/10-rahasia-mengatasi-overthinking-yang-jarang-diketahui/",
